@@ -105,10 +105,10 @@ Through these projects, I developed an understanding of:
 
 This project represents the practical application of Python fundamentals and demonstrates my ability to build logic-driven, interactive programs as part of my Data Technician learning journey.
 
-<img width="1732" height="597" alt="Screenshot 2026-08-12 173519" src="https://github.com/user-attachments/assets/7a3af99d-bb05-4093-bbed-3f152f3954a1" />
+<img width="1794" height="556" alt="Screenshot 2026-08-12 174802" src="https://github.com/user-attachments/assets/76eebd95-864c-41a2-9e7b-146201ecdd85" />
 
 This image shows the python program for a visitors name and age for day 1
 
-<img width="1747" height="619" alt="Screenshot 2026-08-12 173850" src="https://github.com/user-attachments/assets/766ff593-aab9-419e-bddf-059535510892" />
+<img width="1742" height="559" alt="Screenshot 2026-08-12 175113" src="https://github.com/user-attachments/assets/49de0a3d-7ac4-4942-91ca-27b849fb0a8f" />
 
 This image shows the python program for a number checking tool that determines if a number can be divided by 3 or 7 for day 2
